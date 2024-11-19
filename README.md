@@ -2,7 +2,7 @@
 добавлено удаление добавления и редактирование товара
 
 редактирование
-
+ 
 ![image](https://github.com/user-attachments/assets/40dc1b4c-ff78-4809-aeae-d75e8ad0c7ad)
 ![image](https://github.com/user-attachments/assets/244e3cfa-a44f-4f86-a356-def1f4f9e6b5)
 
