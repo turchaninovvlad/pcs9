@@ -3,19 +3,27 @@
 
 редактирование
  
-![image](https://github.com/user-attachments/assets/40dc1b4c-ff78-4809-aeae-d75e8ad0c7ad)
-![image](https://github.com/user-attachments/assets/244e3cfa-a44f-4f86-a356-def1f4f9e6b5)
+![image](https://github.com/user-attachments/assets/e9a21424-216b-498a-aebc-d0046dbd4d10)
+![image](https://github.com/user-attachments/assets/a598c332-7fe2-4ec9-b5e9-93587b77e281)
+![image](https://github.com/user-attachments/assets/ef7daf7e-f585-4f88-ba16-9073b16dc2fc)
+
+
+
 
 создание
 
-![image](https://github.com/user-attachments/assets/3e0cbd1a-28c4-49c1-9dfa-6ca3468f8153)
-![image](https://github.com/user-attachments/assets/11f15467-6fd4-4b06-b221-780142b6bc2b)
+![image](https://github.com/user-attachments/assets/5b04f9cd-3f52-4a00-bc0d-fc394955643f)
+![image](https://github.com/user-attachments/assets/a41027d5-eecd-4117-8ed9-f6aa2c3b91db)
+![image](https://github.com/user-attachments/assets/5dc6caa2-2984-4a7a-98b2-38d703360b9f)
+
 
 (картинка у товаре есть, но она не хочет прогружаться)
 
 удаление
 
-![image](https://github.com/user-attachments/assets/52c004e5-9da3-4cc2-aa48-1a4a88ef52a5)
+![image](https://github.com/user-attachments/assets/1d736825-666f-4c4d-ae78-d9b63fbc5131)
+![image](https://github.com/user-attachments/assets/951018a4-02da-44d3-acc3-3927cf00aac3)
+
 
 
 A new Flutter project.
